@@ -1,1 +1,1 @@
-Somando qualquer tipo de valores inteiros
+Somando
